@@ -1,6 +1,6 @@
 {
   "name": "submitform",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Submit form data from an object easily",
   "license": "MIT",
   "repository": "gillstrom/submitform",
