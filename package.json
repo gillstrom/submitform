@@ -1,0 +1,40 @@
+{
+  "name": "submitform",
+  "version": "0.0.0",
+  "description": "Submit form data from an object easily",
+  "license": "MIT",
+  "repository": "gillstrom/submitform",
+  "author": {
+    "name": "Andreas Gillström",
+    "email": "andreasgillstrom@gmail.com",
+    "url": "github.com/gillstrom"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "xo"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "browser",
+    "form",
+    "get",
+    "navigate",
+    "obj",
+    "object",
+    "post",
+    "submit",
+    "submitter"
+  ],
+  "devDependencies": {
+    "xo": "*"
+  },
+  "xo": {
+    "envs": [
+      "browser"
+    ]
+  }
+}
